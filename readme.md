@@ -3,12 +3,12 @@
 This project is just test of git and github from Ostad.
 
 ## Features
-- Responsive Design
-- Subscribe Form
+(empty)
 
 ## Technologies
 - HTML
 - CSS
+- Bootstrap CSS Framework
 
 
 ## How to Run
