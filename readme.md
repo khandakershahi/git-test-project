@@ -1,6 +1,6 @@
 # Git and Github use Demo Project
 
-This project is just test of Git and GitHub from Ostad.
+This project is just test project of Git and GitHub from Ostad.
 
 ## Features
 (empty)
