@@ -1,4 +1,4 @@
-# Figram to Responsive Web Demo Project
+# Git and Github use Demo Project
 
 This project is just test of git and github from Ostad.
 
