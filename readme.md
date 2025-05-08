@@ -1,6 +1,6 @@
 # Git and Github use Demo Project
 
-This project is just test of git and github from Ostad.
+This project is just test of Git and GitHub from Ostad.
 
 ## Features
 (empty)
@@ -13,7 +13,7 @@ This project is just test of git and github from Ostad.
 
 ## How to Run
 1. Download the project
-2. Open the folder to your VScode and run the live server or Put it in a web server.
+2. Open the folder to your VS code and run the live server or Put it in a web server.
 
 
 ## Screenshots
