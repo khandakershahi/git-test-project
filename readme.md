@@ -1,6 +1,6 @@
 # Figram to Responsive Web Demo Project
 
-This is a responsive web design from Figma file to HTML from Ostad.
+This project is just test of git and github from Ostad.
 
 ## Features
 - Responsive Design
@@ -9,8 +9,7 @@ This is a responsive web design from Figma file to HTML from Ostad.
 ## Technologies
 - HTML
 - CSS
-- Bootstrap CSS framework 
-- Google Fonts
+
 
 ## How to Run
 1. Download the project
